@@ -39,7 +39,8 @@ alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <p align="left">
  <a href="mailto:ya.dordz@yandex.ru"> <img src="/u2709/favicon/png/main-favicon/144/main-favicon.png"
 alt="Gmail logo" height="36" style="vertical-align:top; margin:4px"></a>
-<a href="https://teleg.run/tompepper" target="_blank" rel="noopener noreferrer">
+ 
+<a href="https://teleg.run/sergeybor1986" target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram logo" height="36"
 style="vertical-align:top; margin:4px"></a>
 </p>
