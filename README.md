@@ -28,7 +28,5 @@ alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyBoravtsov&show_icons=true&theme=slateorange)
 
----
-### ✉️ Мои контакты:
  
 
